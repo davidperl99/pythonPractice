@@ -9,7 +9,7 @@ td, th {
 <table>
     <tr>
         <td style='width:20%; border:0'>
-            <img src='ProfilePicture.png' width=50% height=50%>
+            <img align='left' src='ProfilePicture.png' width=50% height=50%> asdasdadasdasdasdasds
         </td>
         <td style='width:80%'>
             Hey there :)
