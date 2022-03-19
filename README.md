@@ -1,6 +1,6 @@
 # Python Practice
 
-<img align='left' src='ProfilePicture.png' width=10% height=10%> 
+<img align='left' src='ProfilePicture.png' width=15% height=15%> 
 Hey there :)
 <br />My name is David Perelman and I would like to learn new things, and won't miss any opportunity for this!
 <br />I started to self-learn python language online, and using it to develop some mini projects in order to
