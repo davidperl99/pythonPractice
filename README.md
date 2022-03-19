@@ -7,7 +7,7 @@ Hey there :)
 <br/>
 
 
-## 1. Mapping
+## 1. Mapping <a href='/1.covid_cities'>1. Mapping</a>
 connecting to <a href='https://data.gov.il/'> data.gov.il </a> API and getting the results of this month and year of cities in Israel with covid-19 status. 
 <br/>Coloring each city in the color from the API. Connecting to openStreetMap in order to get each city's polygon in JSON form, and using it to determine city's confines.
 
