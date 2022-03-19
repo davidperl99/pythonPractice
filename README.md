@@ -2,10 +2,10 @@
 
 <table>
 <tr>
-<td>
+<td style='width:20%'>
 ads
 </td>
-<td>
+<td style='width:80%'>
 ads2
 </td>
 <tr>
