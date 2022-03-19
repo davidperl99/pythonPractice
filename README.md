@@ -6,3 +6,5 @@ Hey there :)
 
 ## 1. Mapping
 connecting to data.gov API 
+
+<img src='/1.covid_cities/screenshot.png'>
